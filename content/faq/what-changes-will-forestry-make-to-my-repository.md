@@ -26,4 +26,4 @@ If you are using Hugo, your config file will be changed if you update the Site P
 Once again, in Hugo, comments and other formatting will be removed from your config file and values may be reordered.
 
 ### Menus
-Currently on Hugo supports menus. When you update menus all files that use a menu will be updated and are subject to the changes mentioned regarding front matter and newlines.
+Currently only Hugo supports menus. When you update menus all files that use a menu will be updated and are subject to the changes mentioned regarding front matter and newlines.
